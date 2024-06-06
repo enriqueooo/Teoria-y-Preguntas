@@ -24,10 +24,12 @@ Para entender mejor estos patrones, pensemos en una casa inteligente.
 El patrón de Observador es como una luz que se enciende automáticamente cuando detecta movimiento, notificando a otros dispositivos como cámaras de seguridad o sistemas de alarma.
 El patrón de Mediador es como un panel de control central que coordina la interacción entre el termostato, las luces y las cerraduras de las puertas, asegurando que todo funcione en armonía sin necesidad de comunicación directa entre los dispositivos.
 El patrón de Publicación/Suscripción es como un sistema de alerta de seguridad, donde múltiples dispositivos (como sensores de puerta y cámaras) publican eventos a los que otros dispositivos de seguridad (como alarmas o notificaciones en smartphones) están suscritos y reaccionan en consecuencia.
-Resumen
+# Resumen
 En resumen, los patrones de diseño son esenciales para gestionar la comunicación entre componentes de manera eficiente. El patrón de Observador, el patrón de Mediador y el patrón de Publicación/Suscripción nos ofrecen soluciones específicas para diferentes tipos de interacción, mejorando la modularidad y flexibilidad de nuestro código. Debemos seleccionar el patrón adecuado basándonos en un análisis cuidadoso de nuestras necesidades y la arquitectura del sistema.
 
 # Referenciado de libros
 Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley.
 Freeman, E., & Robson, E. (2004). Head First Design Patterns. O'Reilly Media.
 Fowler, M. (2002). Patterns of Enterprise Application Architecture. Addison-Wesley.
+
+## Video de youtube: https://youtu.be/GG3x2sRqAdg

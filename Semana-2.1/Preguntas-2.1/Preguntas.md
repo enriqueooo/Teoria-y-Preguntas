@@ -31,3 +31,5 @@ B. Patrón de Mediador
 C. Patrón de Publicación/Suscripción
 
 ANSWER: C
+
+## Video de youtube: https://youtu.be/GG3x2sRqAdg
